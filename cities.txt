@@ -1,0 +1,8 @@
+Index    City Name
+7    Rusizi
+6    Rubavu
+4    Musanze
+2    Huye
+5    Nyagatare
+3    Muhanga
+1    Kigali
